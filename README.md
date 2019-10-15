@@ -4,4 +4,6 @@
 - แป้นพิมพ์ภาษาไทย
 - รองรับบาง Object
 ↓หากจะโคลนด้วย Git↓
-```git clone JIRAMATEDEV/Open-Source-Build69-TH```
+```
+git clone JIRAMATEDEV/Open-Source-Build69-TH
+```
